@@ -1,6 +1,3 @@
-Script started on 2019-02-07 10:09:00+05:30
-]0;shylesh@shylesh: ~/Desktop[01;32mshylesh@shylesh[00m:[01;34m~/Desktop[00m$ cd Ds
-bash: cd: Ds: No such file or directory
 ]0;shylesh@shylesh: ~/Desktop[01;32mshylesh@shylesh[00m:[01;34m~/Desktop[00m$ cd DS
 ]0;shylesh@shylesh: ~/Desktop/DS[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/DS[00m$ ls
 08.txt                 BINARY_TREE_ARRAY.c  [0m[01;34mcs231-master[0m  [01;32mDQ[0m        Merge.c
@@ -64,7 +61,8 @@ total 356
 -rw-rw-r-- 1 shylesh shylesh 153766 Nov 28 23:46 [01;31mcs231.zip[0m
 drwxrwxr-x 2 shylesh shylesh   4096 Nov 29 00:49 [01;34mcs231-master[0m
 -rw-rw-r-- 1 shylesh shylesh  43770 Nov 29 00:59 git.docx
-]0;shylesh@shylesh: ~/Desktop/DS[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/DS[00m$ [K]0;shylesh@shylesh: ~/Desktop/DS[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/DS[00m$ alias m="mkdir"
+]0;shylesh@shylesh: ~/Desktop/DS[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/DS[00m$ 
+[K]0;shylesh@shylesh: ~/Desktop/DS[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/DS[00m$ alias m="mkdir"
 ]0;shylesh@shylesh: ~/Desktop/DS[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/DS[00m$ ls
 08.txt  22.Infix_to_Postfix.c  24.Infix_Evaluation.c  27.Dequeue_Array.c  BINARY_TREE_ARRAY.c  [0m[01;32mBTARR[0m  [01;32mCQ[0m  CQarr.c  [01;34mcs231-master[0m  [01;31mcs231.zip[0m  [01;32mDLL[0m  DLL.c  [01;32mDQ[0m  git.docx  [01;32min[0m  [01;32mME[0m  Merge.c
 ]0;shylesh@shylesh: ~/Desktop/DS[01;32mshylesh@shylesh[00m:[01;34m~/Desktop/DS[00m$ m New
